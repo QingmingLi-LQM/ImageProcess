@@ -1,0 +1,62 @@
+C:\C# WebAPI\TestCode\SharpWindowsFormsApp\SharpWindowsFormsApp\bin\Debug\dll\x86\OpenCvSharpExtern.dll
+C:\C# WebAPI\TestCode\SharpWindowsFormsApp\SharpWindowsFormsApp\bin\Debug\dll\x86\opencv_videoio_ffmpeg452.dll
+C:\C# WebAPI\TestCode\SharpWindowsFormsApp\SharpWindowsFormsApp\bin\Debug\dll\x64\OpenCvSharpExtern.dll
+C:\C# WebAPI\TestCode\SharpWindowsFormsApp\SharpWindowsFormsApp\bin\Debug\dll\x64\opencv_videoio_ffmpeg452_64.dll
+C:\C# WebAPI\TestCode\SharpWindowsFormsApp\SharpWindowsFormsApp\bin\Debug\SharpWindowsFormsApp.exe.config
+C:\C# WebAPI\TestCode\SharpWindowsFormsApp\SharpWindowsFormsApp\bin\Debug\SharpWindowsFormsApp.exe
+C:\C# WebAPI\TestCode\SharpWindowsFormsApp\SharpWindowsFormsApp\bin\Debug\SharpWindowsFormsApp.pdb
+C:\C# WebAPI\TestCode\SharpWindowsFormsApp\SharpWindowsFormsApp\bin\Debug\OpenCvSharp.dll
+C:\C# WebAPI\TestCode\SharpWindowsFormsApp\SharpWindowsFormsApp\bin\Debug\OpenCvSharp.Extensions.dll
+C:\C# WebAPI\TestCode\SharpWindowsFormsApp\SharpWindowsFormsApp\bin\Debug\OpenCvSharp.WpfExtensions.dll
+C:\C# WebAPI\TestCode\SharpWindowsFormsApp\SharpWindowsFormsApp\bin\Debug\System.Buffers.dll
+C:\C# WebAPI\TestCode\SharpWindowsFormsApp\SharpWindowsFormsApp\bin\Debug\System.Drawing.Common.dll
+C:\C# WebAPI\TestCode\SharpWindowsFormsApp\SharpWindowsFormsApp\bin\Debug\System.Memory.dll
+C:\C# WebAPI\TestCode\SharpWindowsFormsApp\SharpWindowsFormsApp\bin\Debug\System.Numerics.Vectors.dll
+C:\C# WebAPI\TestCode\SharpWindowsFormsApp\SharpWindowsFormsApp\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\C# WebAPI\TestCode\SharpWindowsFormsApp\SharpWindowsFormsApp\bin\Debug\System.ValueTuple.dll
+C:\C# WebAPI\TestCode\SharpWindowsFormsApp\SharpWindowsFormsApp\bin\Debug\OpenCvSharp.xml
+C:\C# WebAPI\TestCode\SharpWindowsFormsApp\SharpWindowsFormsApp\bin\Debug\OpenCvSharp.Extensions.xml
+C:\C# WebAPI\TestCode\SharpWindowsFormsApp\SharpWindowsFormsApp\bin\Debug\OpenCvSharp.WpfExtensions.xml
+C:\C# WebAPI\TestCode\SharpWindowsFormsApp\SharpWindowsFormsApp\bin\Debug\System.Buffers.xml
+C:\C# WebAPI\TestCode\SharpWindowsFormsApp\SharpWindowsFormsApp\bin\Debug\System.Memory.xml
+C:\C# WebAPI\TestCode\SharpWindowsFormsApp\SharpWindowsFormsApp\bin\Debug\System.Numerics.Vectors.xml
+C:\C# WebAPI\TestCode\SharpWindowsFormsApp\SharpWindowsFormsApp\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\C# WebAPI\TestCode\SharpWindowsFormsApp\SharpWindowsFormsApp\bin\Debug\System.ValueTuple.xml
+C:\C# WebAPI\TestCode\SharpWindowsFormsApp\SharpWindowsFormsApp\obj\Debug\SharpWindowsFormsApp.csprojAssemblyReference.cache
+C:\C# WebAPI\TestCode\SharpWindowsFormsApp\SharpWindowsFormsApp\obj\Debug\SharpWindowsFormsApp.Properties.Resources.resources
+C:\C# WebAPI\TestCode\SharpWindowsFormsApp\SharpWindowsFormsApp\obj\Debug\SharpWindowsFormsApp.csproj.GenerateResource.cache
+C:\C# WebAPI\TestCode\SharpWindowsFormsApp\SharpWindowsFormsApp\obj\Debug\SharpWindowsFormsApp.csproj.CoreCompileInputs.cache
+C:\C# WebAPI\TestCode\SharpWindowsFormsApp\SharpWindowsFormsApp\obj\Debug\SharpWindowsFormsApp.csproj.CopyComplete
+C:\C# WebAPI\TestCode\SharpWindowsFormsApp\SharpWindowsFormsApp\obj\Debug\SharpWindowsFormsApp.exe
+C:\C# WebAPI\TestCode\SharpWindowsFormsApp\SharpWindowsFormsApp\obj\Debug\SharpWindowsFormsApp.pdb
+D:\3D\C#Code\SharpWindowsFormsApp\SharpWindowsFormsApp\bin\Debug\dll\x86\OpenCvSharpExtern.dll
+D:\3D\C#Code\SharpWindowsFormsApp\SharpWindowsFormsApp\bin\Debug\dll\x86\opencv_videoio_ffmpeg452.dll
+D:\3D\C#Code\SharpWindowsFormsApp\SharpWindowsFormsApp\bin\Debug\dll\x64\OpenCvSharpExtern.dll
+D:\3D\C#Code\SharpWindowsFormsApp\SharpWindowsFormsApp\bin\Debug\dll\x64\opencv_videoio_ffmpeg452_64.dll
+D:\3D\C#Code\SharpWindowsFormsApp\SharpWindowsFormsApp\bin\Debug\SharpWindowsFormsApp.exe.config
+D:\3D\C#Code\SharpWindowsFormsApp\SharpWindowsFormsApp\bin\Debug\SharpWindowsFormsApp.exe
+D:\3D\C#Code\SharpWindowsFormsApp\SharpWindowsFormsApp\bin\Debug\SharpWindowsFormsApp.pdb
+D:\3D\C#Code\SharpWindowsFormsApp\SharpWindowsFormsApp\bin\Debug\OpenCvSharp.dll
+D:\3D\C#Code\SharpWindowsFormsApp\SharpWindowsFormsApp\bin\Debug\OpenCvSharp.Extensions.dll
+D:\3D\C#Code\SharpWindowsFormsApp\SharpWindowsFormsApp\bin\Debug\OpenCvSharp.WpfExtensions.dll
+D:\3D\C#Code\SharpWindowsFormsApp\SharpWindowsFormsApp\bin\Debug\System.Buffers.dll
+D:\3D\C#Code\SharpWindowsFormsApp\SharpWindowsFormsApp\bin\Debug\System.Drawing.Common.dll
+D:\3D\C#Code\SharpWindowsFormsApp\SharpWindowsFormsApp\bin\Debug\System.Memory.dll
+D:\3D\C#Code\SharpWindowsFormsApp\SharpWindowsFormsApp\bin\Debug\System.Numerics.Vectors.dll
+D:\3D\C#Code\SharpWindowsFormsApp\SharpWindowsFormsApp\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\3D\C#Code\SharpWindowsFormsApp\SharpWindowsFormsApp\bin\Debug\System.ValueTuple.dll
+D:\3D\C#Code\SharpWindowsFormsApp\SharpWindowsFormsApp\bin\Debug\OpenCvSharp.xml
+D:\3D\C#Code\SharpWindowsFormsApp\SharpWindowsFormsApp\bin\Debug\OpenCvSharp.Extensions.xml
+D:\3D\C#Code\SharpWindowsFormsApp\SharpWindowsFormsApp\bin\Debug\OpenCvSharp.WpfExtensions.xml
+D:\3D\C#Code\SharpWindowsFormsApp\SharpWindowsFormsApp\bin\Debug\System.Buffers.xml
+D:\3D\C#Code\SharpWindowsFormsApp\SharpWindowsFormsApp\bin\Debug\System.Memory.xml
+D:\3D\C#Code\SharpWindowsFormsApp\SharpWindowsFormsApp\bin\Debug\System.Numerics.Vectors.xml
+D:\3D\C#Code\SharpWindowsFormsApp\SharpWindowsFormsApp\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\3D\C#Code\SharpWindowsFormsApp\SharpWindowsFormsApp\bin\Debug\System.ValueTuple.xml
+D:\3D\C#Code\SharpWindowsFormsApp\SharpWindowsFormsApp\obj\Debug\SharpWindowsFormsApp.csprojAssemblyReference.cache
+D:\3D\C#Code\SharpWindowsFormsApp\SharpWindowsFormsApp\obj\Debug\SharpWindowsFormsApp.Properties.Resources.resources
+D:\3D\C#Code\SharpWindowsFormsApp\SharpWindowsFormsApp\obj\Debug\SharpWindowsFormsApp.csproj.GenerateResource.cache
+D:\3D\C#Code\SharpWindowsFormsApp\SharpWindowsFormsApp\obj\Debug\SharpWindowsFormsApp.csproj.CoreCompileInputs.cache
+D:\3D\C#Code\SharpWindowsFormsApp\SharpWindowsFormsApp\obj\Debug\SharpWindowsFormsApp.csproj.CopyComplete
+D:\3D\C#Code\SharpWindowsFormsApp\SharpWindowsFormsApp\obj\Debug\SharpWindowsFormsApp.exe
+D:\3D\C#Code\SharpWindowsFormsApp\SharpWindowsFormsApp\obj\Debug\SharpWindowsFormsApp.pdb
